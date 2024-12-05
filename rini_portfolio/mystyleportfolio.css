@@ -1,0 +1,6 @@
+
+/* Contact Form */
+.contactForm input,
+.contactForm textarea {
+  border-radius: 0;
+}
